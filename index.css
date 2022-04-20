@@ -54,3 +54,10 @@ h1, h2, h3, h4, h5, h6, p, a, button {
 	height: 24px;
 	width: 24px;
 }
+
+@media only screen and (max-width: 730px) {
+  .contact-us-buttons button svg {
+  	height: 44px;
+  	width: 44px;
+  }
+}
