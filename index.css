@@ -1,0 +1,51 @@
+@import "carousel.css";
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.carousel-caption {
+	bottom: 10rem;
+}
+
+.bd-placeholder-img {
+	object-fit: cover;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, button {
+	color: deeppink !important;
+}
+
+.bd-placeholder-img {
+	object-fit: cover;
+}
+
+.carousel-caption {
+	backdrop-filter: blur(2px);
+}
+
+.bd-placeholder-img.rounded-circle {
+	width: 200px;
+	height: 200px;
+	margin-bottom: 12px;
+}
+
+.featurette-image {
+	width: 500px;
+	height: 500px;
+}
+
+.about-section {
+	padding-left: 40px;
+	padding-right: 40px;
+}
